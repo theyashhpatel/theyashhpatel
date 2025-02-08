@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Backend Developer | Node.js, Express.js, RESTful APIs | MongoDB | Passionate about building scalable and efficient systems.<br>
 
 
